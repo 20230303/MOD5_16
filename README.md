@@ -1,5 +1,6 @@
 ### LOL装备MOD遗物信息文档
-
+创意工坊链接 [https://steamcommunity.com/sharedfiles/filedetails/?id=3494972923&searchtext=lol
+](https://steamcommunity.com/sharedfiles/filedetails/?id=3494972923&searchtext=)
 
 | 遗物名称 | 风味描述 | 效果描述 |
 | --- | --- | --- |
