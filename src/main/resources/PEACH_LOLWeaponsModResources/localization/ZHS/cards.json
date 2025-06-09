@@ -1,0 +1,14 @@
+
+{
+  "Strike": {
+    "NAME": "测试打击",
+    "DESCRIPTION": "造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": " 固有 。造成 !D! 点伤害。"
+  },
+  "Reconstruction": {
+    "NAME": "重塑",
+    "DESCRIPTION": "对目标施加 !M! 层印记，并引爆 印记 NL 再洗入 。抽 1 张牌。",
+    "UPGRADE_DESCRIPTION": " 保留 NL 对目标施加 !M! 层 印记 ，并引爆 印记 NL 再洗入 。抽 1 张牌。"
+  }
+}
+

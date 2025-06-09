@@ -1,0 +1,15 @@
+{
+  "LOLWeaponsMod:ExamplePower": {
+    "NAME": "示例能力",
+    "DESCRIPTIONS": [
+      "当你受到 #y未被格挡 的攻击伤害时，回复 #b%d 点生命。"
+    ]
+  },
+  "LOLWeaponsMod:GangPower": {
+    "NAME": "庞然吞食",
+    "DESCRIPTIONS": [
+      "被攻击时移除1层(未实装)。",
+      "当目标有此效果时，玩家攻击获得1点生命上限。"
+    ]
+  }
+}

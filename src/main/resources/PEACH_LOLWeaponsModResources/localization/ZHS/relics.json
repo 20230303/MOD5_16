@@ -1,0 +1,324 @@
+{
+  "LOLWeaponsMod:MyRelic": {
+    "NAME": "测试遗物",
+    "FLAVOR": "这个人很懒，什么都没写",
+    "DESCRIPTIONS": [
+      "每回合开始时，抽 #b1 张牌。"
+    ]
+  },
+  "LOLWeaponsMod:JvSheZhiYa": {
+    "NAME": "巨蛇之牙",
+    "FLAVOR": "蛇牙刺穿虚妄的庇护，真相随毒液流淌。",
+    "DESCRIPTIONS": [
+      " #y攻击 单个目标时，移除敌人 #y格挡 。"
+    ]
+  },
+  "LOLWeaponsMod:JingJiZhiJia": {
+    "NAME": "荆棘之甲",
+    "FLAVOR": "每道伤痕都化作尖刺，将痛苦百倍奉还。",
+    "DESCRIPTIONS": [
+      "每回合开始时，获得 [#3DBD87]2荆棘[] 。"
+    ]
+  },
+  "LOLWeaponsMod:XinZhiGang": {
+    "NAME": "心之钢",
+    "FLAVOR": "每一次心跳都是战鼓，每一次搏动都是力量的积蓄。",
+    "DESCRIPTIONS": [
+      "第三回合开始时，对所有敌人施加 #ylolweaponsmod:庞然吞食 NL 失去 #y50 最大生命值"
+    ]
+  },
+  "LOLWeaponsMod:SanXiangZhiLi": {
+    "NAME": "三项之力",
+    "FLAVOR": "速度、力量、智慧——三位一体，终成不朽。",
+    "DESCRIPTIONS": [
+      "获得 #y33 金币、 #r3 最大生命值。 NL 第 #y3 回合开始时，获得 #y3 点 NL #r力量 、 #g敏捷 、 #b集中 、 #y能量 、 #b格挡 、 [#808080]多层护甲[] 、 #r活力 、 #y人工制品 、 #p真言 、 [#3DBD87]荆棘[] 。"
+    ]
+  },
+  "LOLWeaponsMod:YanHenSuoLian": {
+    "NAME": "厌恨锁链",
+    "FLAVOR": "她曾发誓要用她的一生来毁灭他......",
+    "DESCRIPTIONS": [
+      "腐化之心失去死亡律动与坚不可摧"
+    ]
+  },
+  "LOLWeaponsMod:TiYaMaTe": {
+    "NAME": "提亚马特",
+    "FLAVOR": "巨刃所及，血肉如潮汐般退散。",
+    "DESCRIPTIONS": [
+      "攻击单个目标时，对其他敌人造成 #y25% 伤害"
+    ]
+  },
+  "LOLWeaponsMod:WuZhongHenYi": {
+    "NAME": "无终恨意",
+    "FLAVOR": "死亡仅是蛰伏，恨意永无终焉。",
+    "DESCRIPTIONS": [
+      "回合结束时，对随机敌人造成等于 [#C0C0C0]格挡[] 的伤害"
+    ]
+  },
+  "LOLWeaponsMod:KuangTuKaiJia": {
+    "NAME": "狂徒铠甲",
+    "FLAVOR": "伤痕是它的勋章，浴血是它的仪式。",
+    "DESCRIPTIONS": [
+      "获得 #y4 点生命上限，战斗开始时，获得 [#00FF7F]再生[] NL 每当你提升生命上限，提升 #y1 点 [#00FF7F]再生[] "
+    ]
+  },
+  "LOLWeaponsMod:QianBianZheJiaXiu": {
+    "NAME": "千变者贾修",
+    "FLAVOR": "适应，吞噬，进化——万物终将臣服。",
+    "DESCRIPTIONS": [
+      "获得 [#C0C0C0]格挡[] 时多获得 #y2 点"
+    ]
+  },
+  "LOLWeaponsMod:HaiKeSiKeJiQiangRen": {
+    "NAME": "海克斯科技枪刃",
+    "FLAVOR": "魔法与钢铁的婚约，诞下毁灭的子嗣。",
+    "DESCRIPTIONS": [
+      "你抽到的技能牌与攻击牌互换 NL ...也许它需要镶嵌什么？"
+    ]
+  },
+  "LOLWeaponsMod:DuoMiNiKeLingZhuDeZhiYi": {
+    "NAME": "多米尼克领主的致意",
+    "FLAVOR": "致意？不，这是对败者的最后通牒。",
+    "DESCRIPTIONS": [
+      "巨人杀手：所有 BOSS 的生命值减少 #y25%"
+    ]
+  },
+  "LOLWeaponsMod:EHuXiaoFu": {
+    "NAME": "恶火小斧",
+    "FLAVOR": "地狱的余烬在斧刃上低语，渴望着新鲜血肉。",
+    "DESCRIPTIONS": [
+      "使用攻击牌时，随机造成 #b1 点 [#32CD32]中毒[] 。"
+    ]
+  },
+  "LOLWeaponsMod:TouJiZheZhiRen": {
+    "NAME": "投机者之刃",
+    "FLAVOR": "赌徒的刀锋永远指向最大收益，哪怕代价是深渊。",
+    "DESCRIPTIONS": [
+      "每次攻击获得 #y1 [#FFD700]金币[]"
+    ]
+  },
+  "LOLWeaponsMod:WuYaoZhiHuo": {
+    "NAME": "巫妖之祸",
+    "FLAVOR": "巫妖的诅咒将魔法蚀刻进骨髓，每次挥击都是咒文。",
+    "DESCRIPTIONS": [
+      "每次战斗中的第一次攻击额外造成 #b6 点伤害。在每个回合开始时获得 #b4 点 #r活力 。"
+    ]
+  },
+  "LOLWeaponsMod:AnYanHuoJu": {
+    "NAME": "黯炎火炬",
+    "FLAVOR": "照亮前路的并非光明，而是吞噬灵魂的黑色火焰。",
+    "DESCRIPTIONS": [
+      "每当你对敌人造成负面状态，造成 #y5 点伤害"
+    ]
+  },
+  "LOLWeaponsMod:BaWangXueKai": {
+    "NAME": "霸王血铠",
+    "FLAVOR": "铠甲饮尽千人之血，终成不朽暴君的第二层皮肤。",
+    "DESCRIPTIONS": [
+      "每当你受伤时，获得 #y1 点 [#FF6347]力量[] ，至多获得 #y3 点 NL ...或者说...至少？"
+    ]
+  },
+  "LOLWeaponsMod:FenTian": {
+    "NAME": "焚天",
+    "FLAVOR": "当天空开始燃烧，众生方知自己不过是薪柴。",
+    "DESCRIPTIONS": [
+      " BOSS 战时，每回合第一张攻击牌伤害翻倍，恢复 #b4 点生命"
+    ]
+  },
+  "LOLWeaponsMod:GuiSuoDeKuangBaoZhiRen": {
+    "NAME": "鬼索的狂暴之刃",
+    "FLAVOR": "刀锋饥渴的嗡鸣，是疯狂吞噬理智的最后通牒。",
+    "DESCRIPTIONS": [
+      "每回合，每打出 #y3 张攻击牌抽 #y1 张牌"
+    ]
+  },
+  "LOLWeaponsMod:ShuoJiZhiMao": {
+    "NAME": "朔极之矛",
+    "FLAVOR": "极北寒冰锻造的矛尖，刺穿时光的帷幕。",
+    "DESCRIPTIONS": [
+      "每回合，每使用 #y3 张技能牌，抽 #y1 张牌"
+    ]
+  },
+  "LOLWeaponsMod:NaWoLiXunRen": {
+    "NAME": "纳沃利迅刃",
+    "FLAVOR": "刀光追不上它的残影，死亡是唯一的目击者。",
+    "DESCRIPTIONS": [
+      "每回合，每使用 #y4 张牌，随机一张手牌耗能减为 #y0"
+    ]
+  },
+  "LOLWeaponsMod:XingShi": {
+    "NAME": "星蚀",
+    "FLAVOR": "月华永升，辉黯同现！",
+    "DESCRIPTIONS": [
+      "每回合，每使用两张牌，获得 #b2 点格挡，对所有敌人造成 #r2 点伤害。"
+    ]
+  },
+  "LOLWeaponsMod:LanShuiJing": {
+    "NAME": "蓝水晶",
+    "FLAVOR": "海洋的魂魄在晶体中搏动，等待觉醒的刹那。",
+    "DESCRIPTIONS": [
+      "每回合第一次使用打击或防御后获得 #y1 点 [E]"
+    ]
+  },
+  "LOLWeaponsMod:MieShiZheDeSiWangZhiMao": {
+    "NAME": "灭世者的死亡之帽",
+    "FLAVOR": "指尖轻触帽檐的刹那，你听见了星辰崩裂的哀鸣。",
+    "DESCRIPTIONS": [
+      "每回合第一张技能牌打出 #y2 次"
+    ]
+  },
+  "LOLWeaponsMod:BingChuanYuanDun": {
+    "NAME": "冰川圆盾",
+    "FLAVOR": "寒霜在盾面蔓延，冻结每一次心跳。",
+    "DESCRIPTIONS": [
+      "每回合开始，对所有敌人施加 #y1 层 [#00BFFF]虚弱[] 。"
+    ]
+  },
+  "LOLWeaponsMod:ShenYuanMianJu": {
+    "NAME": "深渊面具",
+    "FLAVOR": "来自虚空的凝视，让最勇敢的灵魂也为之颤栗。",
+    "DESCRIPTIONS": [
+      "每回合开始，对所有敌人施加 #y1 层 [#FF4500]易伤[] 。"
+    ]
+  },
+  "LOLWeaponsMod:FuWenDiaoKeZhe": {
+    "NAME": "符文雕刻者",
+    "FLAVOR": "指间流淌的世界符文，正在重写现实法则。",
+    "DESCRIPTIONS": [
+      "你每使用一张牌，对随机敌人施加 #y1 层 [#9370DB]印记[] NL 拾取时，将一张 [#DE548A]重塑[] 加入卡组"
+    ]
+  },
+  "LOLWeaponsMod:JiuShu": {
+    "NAME": "救赎",
+    "FLAVOR": "当绝望笼罩战场，圣光将刺破阴霾。",
+    "DESCRIPTIONS": [
+      "生命值低于 #r30 时，获得 #y3 点 [#00FF7F]再生[]"
+    ]
+  },
+  "LOLWeaponsMod:ZhiGaoTianNuoYan": {
+    "NAME": "至高天诺言",
+    "FLAVOR": "群星见证的誓约，其重可压垮王国。",
+    "DESCRIPTIONS": [
+      "拾取时，获得 #y999 [#FFD700]金币[]"
+    ]
+  },
+  "LOLWeaponsMod:EMoFaDian": {
+    "NAME": "恶魔法典",
+    "FLAVOR": "书页间翻涌着未完成的禁咒，等待献祭的墨水。",
+    "DESCRIPTIONS": [
+      "拾取时，移除一张卡牌"
+    ]
+  },
+  "LOLWeaponsMod:SiWangZhiWu": {
+    "NAME": "死亡之舞",
+    "FLAVOR": "在生与死的弦上起舞，伤口不过是未完成的乐章。",
+    "DESCRIPTIONS": [
+      "受到的伤害 [#808080]延迟一回合生效[]"
+    ]
+  },
+  "LOLWeaponsMod:ShouHuTianShi": {
+    "NAME": "守护天使",
+    "FLAVOR": "羽翼遮蔽死神的镰刀，代价是永恒的一部分自我。",
+    "DESCRIPTIONS": [
+      "受到 [#FF0000]致命伤害[] 时，减少一半生命上限，并 [#00FF00]满血复活[]"
+    ]
+  },
+  "LOLWeaponsMod:ShouJiZhe": {
+    "NAME": "收集者",
+    "FLAVOR": "枪膛低语：'价值连城的，从不是物品，而是临终的恐惧'。",
+    "DESCRIPTIONS": [
+      "[#32CD32]斩杀[] 时，获得 #y10 [#FFD700]金币[]"
+    ]
+  },
+  "LOLWeaponsMod:FuYongXingYaoShui": {
+    "NAME": "复用型药水",
+    "FLAVOR": "瓶中的月光永远满盈，饮下即获新生。",
+    "DESCRIPTIONS": [
+      "战斗结束后，若药水栏为 [#ADD8E6]空[] ，则获得一瓶药水"
+    ]
+  },
+  "LOLWeaponsMod:ShenShengZhiJian": {
+    "NAME": "神圣之剑",
+    "FLAVOR": "剑刃折射天界辉光，黑暗在触碰前便已蒸发。",
+    "DESCRIPTIONS": [
+      "战斗开始时，获得 #y1 层 [#DE548A]仪式[]"
+    ]
+  },
+  "LOLWeaponsMod:MiKaiErDeZhuFu": {
+    "NAME": "米凯尔的祝福",
+    "FLAVOR": "圣泉之水涤净世间污浊，连诅咒也化作甘露。",
+    "DESCRIPTIONS": [
+      "回合开始时，获得 #y1 层随机 [#9370DB]能力[]"
+    ]
+  },
+  "LOLWeaponsMod:JuRenYaoDai": {
+    "NAME": "巨人腰带",
+    "FLAVOR": "巨神族战士的束腰，凡人系上即获山峦之力。",
+    "DESCRIPTIONS": [
+      "战斗开始时获得 #y10 点 [#FF4500]临时生命[]"
+    ]
+  },
+  "LOLWeaponsMod:BuJia": {
+    "NAME": "布甲",
+    "FLAVOR": "浸透汗血的粗麻，是传奇最初的见证。",
+    "DESCRIPTIONS": [
+      "战斗开始时获得 #y1 层 [#C0C0C0]金属化[]"
+    ]
+  },
+  "LOLWeaponsMod:LingQiaoPiFeng": {
+    "NAME": "灵巧披风",
+    "FLAVOR": "风之精灵在织物间嬉戏，赋予超越视觉的速度。",
+    "DESCRIPTIONS": [
+      "战斗开始时获得 #y1 点 [#FF6347]力量[]"
+    ]
+  },
+  "LOLWeaponsMod:ChangJian": {
+    "NAME": "长剑",
+    "FLAVOR": "钢铁延伸的手臂，书写着千万次生死交锋。",
+    "DESCRIPTIONS": [
+      "战斗开始时获得 #y1 点 [#FF6347]力量[]"
+    ]
+  },
+  "LOLWeaponsMod:XianNvHuFu": {
+    "NAME": "仙女护符",
+    "FLAVOR": "森林精魄凝结的泪滴，在掌心低语自然秘法。",
+    "DESCRIPTIONS": [
+      "战斗开始时获得 #b%d 点 [E] （可叠加）。"
+    ]
+  },
+  "LOLWeaponsMod:KangMoDouPeng": {
+    "NAME": "抗魔斗篷",
+    "FLAVOR": "织入龙鳞的衬里，将诅咒化为拂面微风。",
+    "DESCRIPTIONS": [
+      "战斗开始时获得 #y2 层 [#9370DB]多层护甲[]"
+    ]
+  },
+  "LOLWeaponsMod:SuoZiJia": {
+    "NAME": "锁子甲",
+    "FLAVOR": "千环相扣的誓言，比任何盾牌都更接近永恒。",
+    "DESCRIPTIONS": [
+      "战斗开始时获得 #y2 层 [#C0C0C0]金属化[]"
+    ]
+  },
+  "LOLWeaponsMod:ZhiLiaoBaoZhu": {
+    "NAME": "治疗宝珠",
+    "FLAVOR": "伊甸园露珠凝成的翡翠，流转着生命原初的脉动。",
+    "DESCRIPTIONS": [
+      "战斗开始时获得 #y2 点 [#00FF7F]再生[] （可叠加）"
+    ]
+  },
+  "LOLWeaponsMod:FuJiDouPeng": {
+    "NAME": "负极斗篷",
+    "FLAVOR": "倒悬的星穹在衬里闪耀，将魔法引向虚无深渊。",
+    "DESCRIPTIONS": [
+      "战斗开始时获得 #y3 层 [#9370DB]多层护甲[]"
+    ]
+  },
+  "LOLWeaponsMod:HongShuiJing": {
+    "NAME": "红水晶",
+    "FLAVOR": "地心熔火淬炼的结晶，搏动着战士的赤诚之心。",
+    "DESCRIPTIONS": [
+      "战斗开始时获得 #y5 点 [#FF4500]临时生命[]"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "modid": "LOLWeaponsMod",
+  "name": "LOL装备Mod",
+  "author_list": ["桃"],
+  "description": "英雄联盟mod，后续考虑加入英雄技能、特殊事件。",
+  "version": "0.0.4",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.30.3",
+  "dependencies": ["basemod", "stslib"]
+}

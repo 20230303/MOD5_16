@@ -1,0 +1,12 @@
+{
+  "Strike": {
+    "NAME": "Test Strike",
+    "DESCRIPTION": "Deal !D! damage.",
+    "UPGRADE_DESCRIPTION": " Innate . NL Deal !D! damage."
+  },
+  "Reconstruction": {
+    "NAME": "Reshape",
+    "DESCRIPTION": "Apply !M! Mark to the target and detonate Mark. NL Reshuffle . Draw 1 card.",
+    "UPGRADE_DESCRIPTION": " Retain . NL Apply !M! Mark to the target and detonate Mark. NL Reshuffle . Draw 1 card."
+  }
+}

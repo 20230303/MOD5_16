@@ -1,0 +1,76 @@
+cards.json:
+{
+  "LOLWeaponsMod:Strike": { // 这里填写你卡牌的ID
+    "NAME": "打击", // 卡名
+    "DESCRIPTION": "造成 !D! 点伤害。", // 原始描述
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 造成 !D! 点伤害。" // [可选]，升级描述，若升级前后只是数值的变化可不写
+  }
+}
+
+
+characters.json:
+{
+  "LOLWeaponsMod:MyCharacter": { // ID要和人物类中getCharStrings的参数一致
+    "NAMES": [
+      "自定义人物"
+    ],
+    "TEXT": [
+      "这是一段人物描述", // 上面提到的人物描述
+      "“你就是心脏？”" // 上面提到的面对心脏的文本
+    ]
+  }
+}
+
+
+relics.json:
+{
+  "LOLWeaponsMod:MyRelic": {
+    "NAME": "测试遗物", // 名称
+    "FLAVOR": "这个人很懒，什么都没写", // 遗物检视界面的风味描述
+    "DESCRIPTIONS": [
+      "每场战斗开始时，抽 #b1 张牌。" // 描述。注意不要忘记中括号（表示数组）。这里#b表示染成蓝色，详见新手必备知识。
+    ]
+  }
+}
+
+
+keywords_zhs.json:
+// 注意！！！如果使用这种写法，最外层不是{而是[
+[
+  {
+    "NAMES": [
+      "恐惧"
+    ],
+    "DESCRIPTION": "拥有 #y恐惧 的角色造成的伤害减少。"
+  }
+]
+在卡牌描述中使用：
+
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 LOLWeaponsMod:恐惧 。"
+在遗物描述中使用：
+
+    "DESCRIPTIONS": [
+      "战斗开始时，给予随机敌人 !M! 层 #yLOLWeaponsMod:恐惧 。"
+    ]
+
+
+powers.json:
+{
+  "LOLWeaponsMod:ExamplePower": {
+    "NAME": "示例能力",
+    "DESCRIPTIONS": [ // 注意这里最后的S，很人都没注意所以出了问题！！！！！！！！！
+      //"当你受到 #y未被格挡 的攻击伤害时，回复 #b",
+      //" 点生命。" // #y #b 表示把文本染成黄色和蓝色。
+      "当你受到 #y未被格挡 的攻击伤害时，回复 #b%d 点生命。" // %d表示能被格式化成int，不懂的建议学习java字符串相关知识
+    ]
+  }
+}
+
+
+monsters.json:
+{
+  "LOLWeaponsMod:MyMonster":{
+    "NAME":"示例怪物",
+    "DIALOG": [""]
+  }
+}

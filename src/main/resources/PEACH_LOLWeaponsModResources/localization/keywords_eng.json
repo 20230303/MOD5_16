@@ -1,0 +1,14 @@
+[
+  {
+    "NAMES": [
+      "Fear"
+    ],
+    "DESCRIPTION": "Characters with #yFear deal reduced damage."
+  },
+  {
+    "NAMES": [
+      "Colossal Devour"
+    ],
+    "DESCRIPTION": "When an enemy with #yColossal Devour is attacked, the player gains #r1 Max HP ."
+  }
+]

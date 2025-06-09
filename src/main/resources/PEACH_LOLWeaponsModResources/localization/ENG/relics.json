@@ -1,0 +1,324 @@
+{
+  "LOLWeaponsMod:MyRelic": {
+    "NAME": "Test Relic",
+    "FLAVOR": "This person is too lazy to write anything.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b1 card."
+    ]
+  },
+  "LOLWeaponsMod:JvSheZhiYa": {
+    "NAME": "Serpent's Fang",
+    "FLAVOR": "Serpent fangs pierce illusory protection, truth flows with venom.",
+    "DESCRIPTIONS": [
+      "When #yAttacking a single target, remove the enemy's #yBlock ."
+    ]
+  },
+  "LOLWeaponsMod:JingJiZhiJia": {
+    "NAME": "Thornmail",
+    "FLAVOR": "Every wound transforms into a spike, repaying pain a hundredfold.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain [#3DBD87]2 Thorns[] ."
+    ]
+  },
+  "LOLWeaponsMod:XinZhiGang": {
+    "NAME": "Heartsteel",
+    "FLAVOR": "Every heartbeat is a war drum, every pulse an accumulation of strength.",
+    "DESCRIPTIONS": [
+      "Lose #y50 Max HP. NL At the start of turn #r3 , apply #ylolweaponsmod:Colossal Devour to ALL enemies."
+    ]
+  },
+  "LOLWeaponsMod:SanXiangZhiLi": {
+    "NAME": "Trinity Force",
+    "FLAVOR": "Speed, strength, wisdom—trinity in one, achieving immortality.",
+    "DESCRIPTIONS": [
+      "Gain #y33 Gold, #r3 Max HP. NL At the start of turn #y3 , gain #y3 : NL #rStrength , #gDexterity , #bFocus , #yEnergy , #bBlock , [#808080]Metallicize[] , #rVigor , #yArtifact , #pMantra , [#3DBD87]Thorns[] ."
+    ]
+  },
+  "LOLWeaponsMod:YanHenSuoLian": {
+    "NAME": "Chain of Annihilation",
+    "FLAVOR": "She swore to spend her life destroying him......",
+    "DESCRIPTIONS": [
+      "The Corrupt Heart loses Death Knell and Invincible."
+    ]
+  },
+  "LOLWeaponsMod:TiYaMaTe": {
+    "NAME": "Tiamat",
+    "FLAVOR": "Where the giant blade reaches, flesh recedes like the tide.",
+    "DESCRIPTIONS": [
+      "When attacking a single target, deal #y25% damage to other enemies."
+    ]
+  },
+  "LOLWeaponsMod:WuZhongHenYi": {
+    "NAME": "Endless Despair",
+    "FLAVOR": "Death is but dormancy; hatred knows no end.",
+    "DESCRIPTIONS": [
+      "At the end of your turn, deal damage equal to your [#C0C0C0]Block[] to a random enemy."
+    ]
+  },
+  "LOLWeaponsMod:KuangTuKaiJia": {
+    "NAME": "Warmog's Armor",
+    "FLAVOR": "Scars are its medals; bathing in blood is its ritual.",
+    "DESCRIPTIONS": [
+      "Gain #y4 Max HP. At the start of combat, gain [#00FF7F]Regen[] . NL Whenever you increase Max HP, increase [#00FF7F]Regen[] by #y1 ."
+    ]
+  },
+  "LOLWeaponsMod:QianBianZheJiaXiu": {
+    "NAME": "Jak'Sho, the Protean",
+    "FLAVOR": "Adapt, devour, evolve—all shall submit.",
+    "DESCRIPTIONS": [
+      "When gaining [#C0C0C0]Block[] , gain #y2 more."
+    ]
+  },
+  "LOLWeaponsMod:HaiKeSiKeJiQiangRen": {
+    "NAME": "Hextech Gunblade",
+    "FLAVOR": "The marriage of magic and steel births destructive offspring.",
+    "DESCRIPTIONS": [
+      "Skill cards and Attack cards you draw are swapped. NL ...Perhaps it needs an upgrade?"
+    ]
+  },
+  "LOLWeaponsMod:DuoMiNiKeLingZhuDeZhiYi": {
+    "NAME": "Lord Dominik's Regards",
+    "FLAVOR": "Regards? No, this is the loser's final ultimatum.",
+    "DESCRIPTIONS": [
+      "Giant Slayer: All BOSSES lose #y25% Max HP."
+    ]
+  },
+  "LOLWeaponsMod:EHuXiaoFu": {
+    "NAME": "Hearthbound Axe",
+    "FLAVOR": "Hell's embers whisper on the axe edge, craving fresh flesh.",
+    "DESCRIPTIONS": [
+      "When using an Attack card, apply #b1 [#32CD32]Poison[] randomly."
+    ]
+  },
+  "LOLWeaponsMod:TouJiZheZhiRen": {
+    "NAME": "Opportunist's Blade",
+    "FLAVOR": "A gambler's blade always aims for maximum profit, even at the cost of the abyss.",
+    "DESCRIPTIONS": [
+      "Gain #y1 [#FFD700]Gold[] per attack."
+    ]
+  },
+  "LOLWeaponsMod:WuYaoZhiHuo": {
+    "NAME": "Lich Bane",
+    "FLAVOR": "The lich's curse etches magic into bone marrow; each swing is an incantation.",
+    "DESCRIPTIONS": [
+      "The first attack in each combat deals #b6 additional damage. NL At the start of each turn, gain #b4 #rVigor ."
+    ]
+  },
+  "LOLWeaponsMod:AnYanHuoJu": {
+    "NAME": "Umbral Torch",
+    "FLAVOR": "What lights the path is not radiance, but soul-devouring black flame.",
+    "DESCRIPTIONS": [
+      "Whenever you apply a debuff to an enemy, deal #y5 damage."
+    ]
+  },
+  "LOLWeaponsMod:BaWangXueKai": {
+    "NAME": "Tyrant's Bloodmail",
+    "FLAVOR": "Drenched in the blood of thousands, it becomes the immortal tyrant's second skin.",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #y1 [#FF6347]Strength[] (up to #y3 ). NL ...Or perhaps... at least?"
+    ]
+  },
+  "LOLWeaponsMod:FenTian": {
+    "NAME": "Sundered Sky",
+    "FLAVOR": "When the sky ignites, mortals know they are but kindling.",
+    "DESCRIPTIONS": [
+      "During BOSS fights, double the damage of the first Attack card each turn and heal #b4 HP."
+    ]
+  },
+  "LOLWeaponsMod:GuiSuoDeKuangBaoZhiRen": {
+    "NAME": "Guinsoo's Rageblade",
+    "FLAVOR": "The blade's hungry hum is a final ultimatum devouring sanity.",
+    "DESCRIPTIONS": [
+      "Each turn, after playing #y3 Attack cards, draw #y1 card."
+    ]
+  },
+  "LOLWeaponsMod:ShuoJiZhiMao": {
+    "NAME": "Spear of Shojin",
+    "FLAVOR": "Forged from arctic ice, the spearhead pierces time's veil.",
+    "DESCRIPTIONS": [
+      "Each turn, after playing #y3 Skill cards, draw #y1 card."
+    ]
+  },
+  "LOLWeaponsMod:NaWoLiXunRen": {
+    "NAME": "Navori Quickblades",
+    "FLAVOR": "The blade's afterimage outpaces its light; death is the sole witness.",
+    "DESCRIPTIONS": [
+      "Each turn, after playing #y4 cards, reduce a random card in your hand to #y0 cost."
+    ]
+  },
+  "LOLWeaponsMod:XingShi": {
+    "NAME": "Eclipse",
+    "FLAVOR": "The moon ever ascends, radiance and shadow converge!",
+    "DESCRIPTIONS": [
+      "Each turn, after playing two cards, gain #b2 Block and deal #r2 damage to ALL enemies."
+    ]
+  },
+  "LOLWeaponsMod:LanShuiJing": {
+    "NAME": "Sapphire Crystal",
+    "FLAVOR": "The ocean's soul pulses within the crystal, awaiting awakening.",
+    "DESCRIPTIONS": [
+      "After playing your first Strike or Defend each turn, gain #y1 [E]."
+    ]
+  },
+  "LOLWeaponsMod:MieShiZheDeSiWangZhiMao": {
+    "NAME": "Rabadon's Deathcap",
+    "FLAVOR": "As fingertips brush the brim, you hear stars shattering.",
+    "DESCRIPTIONS": [
+      "The first Skill card played each turn is played #y2 times."
+    ]
+  },
+  "LOLWeaponsMod:BingChuanYuanDun": {
+    "NAME": "Glacial Buckler",
+    "FLAVOR": "Frost spreads across the shield, freezing every heartbeat.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, apply #y1 [#00BFFF]Weak[] to ALL enemies."
+    ]
+  },
+  "LOLWeaponsMod:ShenYuanMianJu": {
+    "NAME": "Abyssal Mask",
+    "FLAVOR": "The Void's gaze makes even the bravest soul tremble.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, apply #y1 [#FF4500]Vulnerable[] to ALL enemies."
+    ]
+  },
+  "LOLWeaponsMod:FuWenDiaoKeZhe": {
+    "NAME": "Rune Carver",
+    "FLAVOR": "World runes flow between fingers, rewriting reality's laws.",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, apply #y1 [#9370DB]Mark[] to a random enemy. NL When obtained, add a [#DE548A]Reshape[] to your deck."
+    ]
+  },
+  "LOLWeaponsMod:JiuShu": {
+    "NAME": "Redemption",
+    "FLAVOR": "When despair shrouds the battlefield, holy light pierces the gloom.",
+    "DESCRIPTIONS": [
+      "When HP is below #r30 , gain #y3 [#00FF7F]Regen[] ."
+    ]
+  },
+  "LOLWeaponsMod:ZhiGaoTianNuoYan": {
+    "NAME": "Celestial Promise",
+    "FLAVOR": "A vow witnessed by stars, heavy enough to crush kingdoms.",
+    "DESCRIPTIONS": [
+      "When obtained, gain #y999 [#FFD700]Gold[] ."
+    ]
+  },
+  "LOLWeaponsMod:EMoFaDian": {
+    "NAME": "Fiendish Codex",
+    "FLAVOR": "Unfinished forbidden spells surge between pages, awaiting sacrificial ink.",
+    "DESCRIPTIONS": [
+      "When obtained, remove a card."
+    ]
+  },
+  "LOLWeaponsMod:SiWangZhiWu": {
+    "NAME": "Deaths Dance",
+    "FLAVOR": "Dancing on the string between life and death, wounds are but unfinished movements.",
+    "DESCRIPTIONS": [
+      "Incoming damage [#808080]delays for 1 turn[] ."
+    ]
+  },
+  "LOLWeaponsMod:ShouHuTianShi": {
+    "NAME": "Guardian Angel",
+    "FLAVOR": "Wings shield against the reaper's scythe, at the cost of an eternal fragment of self.",
+    "DESCRIPTIONS": [
+      "When receiving [#FF0000]lethal damage[] , halve Max HP and [#00FF00]resurrect at full HP[] ."
+    ]
+  },
+  "LOLWeaponsMod:ShouJiZhe": {
+    "NAME": "The Collector",
+    "FLAVOR": "The barrel whispers: 'What's priceless isn't the item, but the fear at the end'.",
+    "DESCRIPTIONS": [
+      "When [#32CD32]executing[] an enemy, gain #y10 [#FFD700]Gold[] ."
+    ]
+  },
+  "LOLWeaponsMod:FuYongXingYaoShui": {
+    "NAME": "Refillable Potion",
+    "FLAVOR": "Moonlight in the bottle brims eternally; a sip brings rebirth.",
+    "DESCRIPTIONS": [
+      "After combat, if the potion slot is [#ADD8E6]empty[] , gain a random potion."
+    ]
+  },
+  "LOLWeaponsMod:ShenShengZhiJian": {
+    "NAME": "Divine Sword",
+    "FLAVOR": "The blade refracts celestial radiance; darkness evaporates before touch.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #y1 [#DE548A]Ritual[] ."
+    ]
+  },
+  "LOLWeaponsMod:MiKaiErDeZhuFu": {
+    "NAME": "Mikael's Blessing",
+    "FLAVOR": "Sacred spring water purges worldly filth; even curses turn to nectar.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #y1 random [#9370DB]Power[] ."
+    ]
+  },
+  "LOLWeaponsMod:JuRenYaoDai": {
+    "NAME": "Giant's Belt",
+    "FLAVOR": "A titan warrior's girdle; mortals gain mountain strength by wearing it.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #y10 [#FF4500]Temporary HP[] ."
+    ]
+  },
+  "LOLWeaponsMod:BuJia": {
+    "NAME": "Cloth Armor",
+    "FLAVOR": "Sackcloth soaked in blood and sweat—the first witness of legends.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #y1 [#C0C0C0]Metallicize[] ."
+    ]
+  },
+  "LOLWeaponsMod:LingQiaoPiFeng": {
+    "NAME": "Agile Cloak",
+    "FLAVOR": "Wind sprites frolic in the weave, granting speed beyond sight.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #y1 [#FF6347]Strength[] ."
+    ]
+  },
+  "LOLWeaponsMod:ChangJian": {
+    "NAME": "Long Sword",
+    "FLAVOR": "Steel-extended arm, chronicling thousands of life-and-death duels.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #y1 [#FF6347]Strength[] ."
+    ]
+  },
+  "LOLWeaponsMod:XianNvHuFu": {
+    "NAME": "Faerie Charm",
+    "FLAVOR": "Forest spirit's tear crystallized, whispering nature's secrets in the palm.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #b%d [E] (Stacks)."
+    ]
+  },
+  "LOLWeaponsMod:KangMoDouPeng": {
+    "NAME": "Null-Magic Mantle",
+    "FLAVOR": "Dragon-scale lining turns curses into breezes.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #y2 [#9370DB]Plated Armor[] ."
+    ]
+  },
+  "LOLWeaponsMod:SuoZiJia": {
+    "NAME": "Chain Vest",
+    "FLAVOR": "A thousand interlocked vows, closer to eternity than any shield.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #y2 [#C0C0C0]Metallicize[] ."
+    ]
+  },
+  "LOLWeaponsMod:ZhiLiaoBaoZhu": {
+    "NAME": "Rejuvenation Bead",
+    "FLAVOR": "Eden's dew congealed into jade, pulsing with life's primordial rhythm.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #y2 [#00FF7F]Regen[] (Stacks)."
+    ]
+  },
+  "LOLWeaponsMod:FuJiDouPeng": {
+    "NAME": "Negatron Cloak",
+    "FLAVOR": "Inverted starscape glows in the lining, diverting magic into the void.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #y3 [#9370DB]Plated Armor[] ."
+    ]
+  },
+  "LOLWeaponsMod:HongShuiJing": {
+    "NAME": "Ruby Crystal",
+    "FLAVOR": "Heart-of-earth magma forged this crystal, throbbing with a warrior's passion.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #y5 [#FF4500]Temporary HP[] ."
+    ]
+  }
+}

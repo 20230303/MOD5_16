@@ -1,0 +1,11 @@
+@SpireInitializer // 加载mod的注解
+public class LOLWeaponsMod {
+    // 构造方法
+    public LOLWeaponsMod() {
+    }
+
+    // 注解需要调用的方法，必须写
+    public static void initialize() {
+        new LOLWeaponsMod();
+    }
+}

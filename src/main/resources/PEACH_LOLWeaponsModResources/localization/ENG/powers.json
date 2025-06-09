@@ -1,0 +1,15 @@
+{
+  "LOLWeaponsMod:ExamplePower": {
+    "NAME": "Example Power",
+    "DESCRIPTIONS": [
+      "When you take #yunblocked attack damage, heal #b%d HP."
+    ]
+  },
+  "LOLWeaponsMod:GangPower": {
+    "NAME": "Colossal Devour",
+    "DESCRIPTIONS": [
+      "Removes 1 stack when attacked (Not implemented).",
+      "When the target has this, player gains 1 Max HP when attacking."
+    ]
+  }
+}

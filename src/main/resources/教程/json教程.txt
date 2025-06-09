@@ -1,0 +1,15 @@
+{
+  "modid": "LOLWeaponsMod", // 你mod的唯一标识，取得独特一些以防重名
+  "name": "事例Mod", // 该mod在读取界面显示的名称
+  "author_list": ["REME"], // 作者们（一定要写花括号）
+  "description": "作为教程的mod。", // mod在读取界面的介绍
+  "version": "0.0.1", // mod版本
+  "sts_version": "12-18-2022", // 游戏本体版本，根据时间填写你当前能运行的版本即可
+  "mts_version": "3.23.2", // Mod The Spire版本
+  "dependencies": ["basemod"] // 该mod的所有依赖。目前我们只需要basemod。
+}
+TIPS:
+
+这里的json注释是不合法的，请在你的文件中删掉json的注释！！！
+版本号怎么写没有具体要求，你写mod的打包时间也可以。（例如"2021-11-10"）
+当你依赖了一个其他mod如stslib，一定要在这里加上。
